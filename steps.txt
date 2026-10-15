@@ -1,2 +1,6 @@
 git init
 git remote add origin repositorylink
+create file
+git add
+git commit -m "trying out contact form"
+git push -u origin master
